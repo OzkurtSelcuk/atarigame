@@ -1,0 +1,1 @@
+Bu proje, Python programlama dili ve PyGame kütüphanesi kullanılarak geliştirilmiş basit bir 2D atari tarzı oyundur. Oyunda kullanıcı, yön tuşları veya WASD tuşları ile karakteri kontrol eder, engellerden kaçınır ve puan toplar.
